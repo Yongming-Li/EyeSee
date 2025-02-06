@@ -1,0 +1,74 @@
+#warning {background-color: #FFCCCB}
+.tools_button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    border: none !important;
+    box-shadow: none !important;
+    text-align: center;
+    color: black;
+}
+
+.tools_button_clicked {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    border: none !important;
+    box-shadow: none !important;
+    text-align: center;
+    color: rgb(18,150,219);
+}
+
+.tools_button_add {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    border: none !important;
+    box-shadow: none !important;
+    text-align: center;
+    color: rgb(18,150,219);
+}
+
+.info_btn {
+    background: rgb(245, 245, 245) !important;
+    border: none !important;
+    box-shadow: none !important;
+    font-size: 15px !important;
+    min-width: 6rem !important;
+    max-width: 10rem !important;
+}
+
+.info_btn_interact {
+    background: rgb(217, 217, 217) !important;
+    box-shadow: none !important;
+    font-size: 15px !important;
+    min-width: 6rem !important;
+    max-width: 10rem !important;
+}
+
+.function_button {
+    background: rgb(227, 226, 226) !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.function_button_rec {
+    background: rgb(189, 189, 189) !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.small_button {
+    font-size: 12px !important;
+    padding: 2px 8px !important;
+    min-width: 60px !important;
+    height: 30px !important;
+}
+
+#tool_box {max-width: 50px} 
